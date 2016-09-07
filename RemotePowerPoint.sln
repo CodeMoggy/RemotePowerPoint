@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotePowerPoint", "RemotePowerPoint\RemotePowerPoint.csproj", "{7D60EC2B-53FB-4F39-AF2E-FB8A8D51FB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotePowerPointWeb", "RemotePowerPointWeb\RemotePowerPointWeb.csproj", "{D683D23C-264D-433B-8781-9391E7952188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideSwitcher", "SlideSwitcher\SlideSwitcher.csproj", "{F631AD8A-C04E-4A7D-8CFC-FFA18ED684DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D60EC2B-53FB-4F39-AF2E-FB8A8D51FB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D60EC2B-53FB-4F39-AF2E-FB8A8D51FB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D60EC2B-53FB-4F39-AF2E-FB8A8D51FB15}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7D60EC2B-53FB-4F39-AF2E-FB8A8D51FB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D60EC2B-53FB-4F39-AF2E-FB8A8D51FB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D60EC2B-53FB-4F39-AF2E-FB8A8D51FB15}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D683D23C-264D-433B-8781-9391E7952188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D683D23C-264D-433B-8781-9391E7952188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D683D23C-264D-433B-8781-9391E7952188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D683D23C-264D-433B-8781-9391E7952188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F631AD8A-C04E-4A7D-8CFC-FFA18ED684DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F631AD8A-C04E-4A7D-8CFC-FFA18ED684DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F631AD8A-C04E-4A7D-8CFC-FFA18ED684DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F631AD8A-C04E-4A7D-8CFC-FFA18ED684DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
